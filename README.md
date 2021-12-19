@@ -73,3 +73,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Credit: KevinPatel04: https://github.com/KevinPatel04 -->
+<!-- Thanks Kevin for your template !  -->

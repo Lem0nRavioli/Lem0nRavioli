@@ -9,7 +9,7 @@
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p> -->
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p> -->
 
-[![Lem0nRavioli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lem0nRavioli)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Lem0nRavioli&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 

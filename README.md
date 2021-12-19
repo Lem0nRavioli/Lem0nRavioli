@@ -6,14 +6,11 @@
 
 <p align="center" width="150px"> Learning everyday, my goal is to one day witness the rise of a truly intelligent AI.</p>
 
-<!-- <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p> -->
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p> -->
+<p align="center"><img src="https://profile-counter.glitch.me/%7BLem0nRavioli%7D/count.svg" alt="visitor badge"/></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lem0nRavioli&layout=compact&hide=TSQL&theme=chartreuse-dark"></p> -->
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Lem0nRavioli&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-
-
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=KevinPatel04&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Lem0nravioli&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -52,7 +49,7 @@
 <!-- ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp; -->
 
 ### :link: &nbsp;Connect with me
-
+<!-- 
 <p align="center">
 <a href="https://kevinpatel.me/blog"><img src="https://img.shields.io/badge/-kevinpatel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/KevinPatel04"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -62,9 +59,11 @@
 <a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-<h2>Connect with me!</h2>
+<h2>Connect with me!</h2> -->
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fahimfba/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Fahim_FBA/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/iptu.fba)
+ <p align="center">
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guillaume-saulnier-73b36020b/) [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/guillaume.saulnier.14/)
+ </p>
 <br> <br>
 
 

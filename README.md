@@ -1,9 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Kevin Patel </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Guillaume Saulnier </h1>
 
 <p align="center" width="150px"> Learning everyday, my goal is to one day witness the rise of a truly intelligent AI.</p>
 

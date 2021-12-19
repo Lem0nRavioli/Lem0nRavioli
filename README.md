@@ -53,7 +53,7 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/guillaume-saulnier-73b36020b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.facebook.com/guillaume.saulnier.14/"><img src="https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="mailto:hirona_mj@hotmail.fr"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:hirona_mj@hotmail.fr"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
 </p>
 
 
